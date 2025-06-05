@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giphy", "Giphy\Giphy.csproj", "{215E0C7E-0F26-450C-AD23-795584FB73C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215E0C7E-0F26-450C-AD23-795584FB73C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E0C7E-0F26-450C-AD23-795584FB73C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E0C7E-0F26-450C-AD23-795584FB73C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E0C7E-0F26-450C-AD23-795584FB73C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC3CDA9-42FE-4EC5-9945-0A312668E197}
+	EndGlobalSection
+EndGlobal
